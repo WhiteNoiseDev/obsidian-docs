@@ -26,7 +26,8 @@ To use these default styles, replace `INFO` in the examples with any of these ty
 
 - note
 - abstract, summary, tldr
-- info, todo
+- info 
+- todo
 - tip, hint, important
 - success, check, done
 - question, help, faq
